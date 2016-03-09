@@ -1,4 +1,4 @@
-build/
+
 coverage/
 karma-coverage/
 npm-debug.log
